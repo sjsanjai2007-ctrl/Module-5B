@@ -34,7 +34,6 @@ print(mer)
 ~~~
 ## Output
 <img width="1149" height="746" alt="image" src="https://github.com/user-attachments/assets/a09da4ab-beb8-46e6-be7d-0bff2758bd81" />
-### Result
-Thus,the program has been executed successfully.
 
 ## Result
+Thus,the program has been executed successfully.
